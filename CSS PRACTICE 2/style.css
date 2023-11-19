@@ -1,0 +1,52 @@
+*{
+    background-color: rgb(95, 89, 89);
+
+}
+
+#navbar{
+    height: 70px;
+    background-color: black;
+    
+}
+
+a{
+    margin-right: 150px;
+  line-height: 50px;
+  font-weight: bolder;
+  color: rgb(236, 236, 26)
+  
+
+
+}
+button{
+    color: #000;
+}
+
+h1{
+    color: rgb(3, 3, 3);
+    text-align: center;
+    text-decoration:underline wavy
+   
+}
+
+.lab{
+    color: black;
+    text-align: center;
+    text-decoration:underline;
+
+
+}
+body{
+    background-image: url(hosp\ pic.jpg);
+    background-size: contain;
+}
+/* .practice{
+    height: 50px;
+    width: 70px;
+} */
+:hover{
+    color: rgb(171, 171, 182);
+}
+#crop{
+    visibility: hidden
+}
